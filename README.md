@@ -21,7 +21,7 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 <br />
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/longhai/Neumorphism-UI/master/media/theme-jinja2-screen.png)
 
 <br />
 
